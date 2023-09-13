@@ -1,0 +1,214 @@
+1. 
+1101 -> 0010 -> 0011 = 3
+answer: -3
+1101
+8 + 4 + 0 + 1 = 13
+answer: 13
+
+2. -3 3/4
+11.110
+sign bit: 1 | base two rep: 11.11 | 
+raw bit pattern: 1111, Mantissa: 1111
+exponent: 2 + 4 = 6
+answer: 11101111
+
+3. 11101110
+1 110 1110
+exponent: 110 = (6 - 4 = 2) 
+1110 -> 11.10 = 3 1/2
+1 -> -3 1/2 -> -3.5
+answer: -3.5
+
+4. 1001 + 0100
+1001 -> 0110 -> 0111 = -7
+0100 = 4
+1101 -> 0010 -> 0011 = -3
+answer: 1101
+
+5. -19
+19 = 00010011 -> 11101100 -> 11101101 = -19
+19 = 010011 -> 101100 -> 101101 = -19
+
+
+6. 
+        w     h     
+start: -1    -1    w -> -2, h -> 1
+    1) -2     1    w -> -1, h -> 3
+    2)  -1     3   w -> 2, h -> 5
+FOR LOOP ENDS
+w = 3 
+
+7.
+total = num2++    total -> 4, num2 -> 5 AFTER line
+total = 4, num2 = 5
+
+8. runtime error the "or" will check the other 
+boolean and divide by 0
+
+9. 
+count value
+- start) 1 
+-     1) 2 (1 * 2)   output
+-     2) 4 (2 * 2)   output
+-     3) 6 (3 * 2)   output
+-     4) 8 (4 * 2)   output
+-     5) count = 5 forloop ends
+result: 24685
+
+10. 4 > 4 | 4 is not greater than 4
+x + y = 4 + 2 = 6
+
+12. 
+18 + 8%3 - 5/3
+18 + (8%3) - (5/3)
+18 + 2 - 1
+19
+
+14. 
+a = ‘c’;
+b = a;
+c = ‘a’;
+cout << a << ‘b’ << c;
+a = 'c'
+'b' = 'b'
+c = 'a'
+answer: cba
+
+16. 
+15/2 % 3 - 1
+15/2 = 7
+7%3 = 1
+1 - 1 = 0
+
+17.
+11 % 6 / 2.0 - 1
+5 / 2.0 - 1
+2.5 - 1 = 1.5
+
+18. 123/10 + 3
+123 / 10 = 12
+12 + 3 = 15
+
+19.
+7 * 2 - 5/3
+14 - 1
+13
+
+20.
+3 - (5 + 10 / (2 * 2))
+3 - (5 + 10 / 4)
+3 - (5 + 2)
+3 - 7
+-4
+
+21.
+6 = 0110
+A = 1010
+3 = 0011
+
+22. 
+1011.010
+0001.101
+1100.111
+
+23. 
+23/2 = 11, rm 1
+11/2 = 5,  rm 1
+5/2 = 2,   rm 1
+2/2 = 1,   rm0
+1/2 = 0,   rm 1
+10111
+
+24. 6 1/8
+bit pattern: 110.001
+exp: 3
+3 + 4 = 7,  111
+0 111 1100
+
+25. 
+D = 1101
+C = 1100
+3 = 0011
+F = 1111
+
+28. x != 25 boolean is False 
+
+30. 5 > 7 = False
+
+32. 
+  1) (letter1 = p) (letter2 = x)
+  2) letter1 = p  letter2 = y
+letter1 -> q
+  1) letter1 = q  letter2 = x
+  2) letter1 = q  letter2 = y
+
+33. 5 < 10
+Live prosper
+
+34. pow (x + 2, 3)
+pow(2, 3) = 2^3 = 8
+
+36. 
+cout << "I wish" << endl;
+cout << "you were here";
+
+I wish endl
+you were here
+
+38.
+false || true && false
+true && false -> false
+
+39.
+(1 / 2) * 6 + 8
+0 * 6 + 8
+8
+
+50.
+x = 3 * 2
+3 * 2 = 6
+6 > 0
+continues forever
+
+51. 2 rows, 3 columns
+xxx
+xxx
+
+52. 
+num = 3
+for loop runs 3 times
+cin gets the 2 4 5 and outputs
+245
+
+53. x = 2
+y = ((2 + 1) / 5) + (2 / 2)
+y = 3/5 + 1
+y = 0 + 1
+y = 1
+
+54. rand_int % (19 - 13 + 1) + 13
+rand_int % (8) (integers from 0-7)
+13 + (integers from 0-7) = (integers from 13 - 19)
+
+55. 
+00001001 -> 9
+8 + 1 = 9
+
+56.  x = 18 divide by 3 each time
+18 / 3 = 6
+6 / 3 = 2
+2 / 3 = 0
+6 2 0
+
+57. w =y % 5
+w = 34 % 5
+34 / 5= 6 rm 4
+w = 4
+
+60.
+rand()%9 = 0...8
+0...8 - 4 = 
+
+
+
+
